@@ -14,8 +14,8 @@
     Her name is THERESIA KAMWETHYA MBUVI.
     she joined a private school and had her primary education there,later she joined secondary school in a National schhol.
     She is currently doing her degree at a World class university:MERU UNIVERSITY OF SCIENCE AND TECHNOLOGY.
-<img src="../20250927_134120.jpg" alt="20250927_134120" width="200" height="200" loading="lazy">
-<img src="../meru university (2).jpg" alt="meru university logo" width="200" height="200" loading="lazy">
+<img src=" C:\Users\Administrator\Desktop\mary\.dist\20250927_134050.jpg"> 
+<img src="C:\Users\Administrator\Desktop\mary\.dist\meru university.jpg">
 </P>
 <h2>SKILLS GAINED</h2>
 <P>My course involves the technology and so I have to keep up with the trends and chenges
